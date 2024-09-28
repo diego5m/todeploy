@@ -1,14 +1,16 @@
 {
     "cart": [
-    {
-      "id": 1,
-      "productId": 1
-    },
-    {
-      "id": 2,
-      "productId": 2
-    }
-    ]
+      {
+        "id": 1,
+        "productId": 1
+      },
+      {
+        "id": 2,
+        "productId": 2
+      }
+
+    ],
+    
     "services": [
       {
         "id": 1,
